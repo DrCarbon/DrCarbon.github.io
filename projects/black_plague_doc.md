@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/They All Fall Down Project0.png
+image: images/NHDProject.png
 title: Black Plague Documentary
 permalink: projects/black_plague_doc
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: A ten minute documentary I made for National History Day, about the Black Plague, that went on to State Finals for the competition.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/They All Fall Down Project0.png">
+<img class="ui medium right floated rounded image" src="../images/NHDProject.png">
 
 The National History Day competition is a nation wide event that challenges Middle and High School students to create a project, be it a performance, essay, documentary etc.  This is a year long project that goes from local competitions to state competitions to the final nation competition.  For this year, project topic was turning points in history.  I decided to cover the Black Plauge, and do it in a documentary form, this required making the video ten minutes long, adding in photos and voice over, and making it both interesting and informative to watch.   
 
