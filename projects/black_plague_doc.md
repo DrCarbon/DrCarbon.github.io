@@ -7,15 +7,17 @@ permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2013-04-21
 labels:
-  - Editing
+  - Video Editing
   - Photoshop
   - Animation
 summary: A ten minute documentary I made for National History Day, about the Black Plague, that went on to State Finals for the competition.
 ---
 
-The National History Day competition is a nation wide event that challenges Middle and High School students to create a project, be it a performance, essay, documentary etc.
+The National History Day competition is a nation wide event that challenges Middle and High School students to create a project, be it a performance, essay, documentary etc.  This is a year long project that goes from local competitions to state competitions to the final nation competition.  For this year, project topic was turning points in history.  I decided to cover the Black Plauge, and do it in a documentary form, this required making the video ten minutes long, adding in photos and voice over, and making it both interesting and informative to watch.   
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+Taking on this project presented me with multiple challenges, this would be the first time I ever had to make a video by myself, I had outside resources, like my parents, to offer me help, but for the most part I had to do the research, condense it down into a script, make sure said script was long enough and eventually voice it.  On top of this I decided early on that since I could not use videos or interviews from that time I had to use another method to make the documentary interesting and thus I decided to include animation.  I took old images from mideval times, and based on the parts of the script I wanted to highlight, I cut out parts of that picture in photoshop, filled in the back ground by using the stamp tool, then putting it all into an animation program where I had to key frame it and make sure it filled out the necessary time in the video.
+
+I had to time everything perfectly, with the audio and it often time was not easy but it certainly worked out in the end.  I also decided to add music which turned out to be a challenge as it could easily drown out my voice at times, thus I had to learn how to manage audio in a video.  This was a challenging project, but certainly one I learned a lot from. I eventually got to the state competitions after beating the local competition.  I unfortunately did not make it to the national competition but I certainly learned a lot about how videos are made and learned valuable life lessons that I still follow to this day. 
 
 
 
