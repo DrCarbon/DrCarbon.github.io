@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/fantasyMap.jpg
 title: A Fantasy Map
-permalink: projects/vacay
+permalink: projects/fantasyMap
 # All dates must be YYYY-MM-DD format!
 date: 2019-07-01
 labels:
