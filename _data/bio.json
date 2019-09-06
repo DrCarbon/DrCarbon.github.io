@@ -17,13 +17,18 @@
     "profiles": [
       {
         "network": "github",
-        "username": "DrCarbon",
+        "username": "corbenbroennimann",
         "url": "http://github.com/corbenbroennimann"
       },
       {
         "network": "linkedin",
         "username": "Corben Broennimann",
         "url": "http://linkedin.com/in/corbenbroennimann-11854595/"
+      },
+      {
+        "network": "gmail",
+        "username": "corben",
+        "email": "corben@hawaii.edu"
       }
     ]
   },
@@ -55,28 +60,24 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Windows 7,8,& 10",
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Eclipse"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2016-09-01",
+      "startDate": "2018-08-20",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -85,69 +86,41 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Roberts Hawaii",
+      "position": "concierge",
+      "website": "https://www.robertshawaii.com/",
+      "startDate": "2019-06-13",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Assist customers and handel baggage",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Manage, assist, and book customers while ensuring their luggage remains safe",
+        "Handle closing tasks, coordinate with dispatch, and ensure the lounge stays as welcoming as possible"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
+      "highlights": []
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Youth Citizenship Award",
+      "date": "2016",
+      "awarder": "Soroptomists of Hawaii",
+      "summary": "An award granted to a youth in a community who has given back to their community in a meaningful way."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Life Plan Youth Leadership Award",
+      "date": "2016",
+      "awarder": "Youth Leadership Life Plan Institute of Hawaii",
+      "summary": "An award for participating in Youth Lifeplan leadership, where in we helped newer students begin to think about the future and prepare for college and employment."
     }
   ],
   "references": [
