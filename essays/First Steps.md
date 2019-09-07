@@ -8,7 +8,8 @@ labels:
   - JavaScript
 ---
 
-<img class="ui tiny right spaced image" src="../images/hiker.jpg">*A journey of a thousand miles begins with a single step.*
+<img class="ui tiny right spaced image" src="../images/hiker.jpg"> 
+*A journey of a thousand miles begins with a single step.*
 
 Software engineering has always been rather intimidating to me, but also incredibly exciting. Just the concept of creating a software that people can use through code is something I have never done before, yet here I am, taking the first steps to understanding software engineering.  At the time of writing this, it is September 2019, and I have just begun to dip my toes into the prospect of software engineering, starting, of course, with JavaScript.  Before taking this class, I had no experience with JavaScript and had actually heard very little about it, but after learning more about the language I found myself surprised that I did not hear about it earlier.  
 
