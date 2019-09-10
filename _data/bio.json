@@ -34,19 +34,19 @@
   },
   "interests": [
     {
-      "name": "game design",
+      "name": "Game Design",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data modeling",
+      "name": "App Development",
       "keywords": [
       ]
     },
     {
-      "name": "enivornmental simulation",
+      "name": "Simulation",
       "keywords": [
       ]
     }
@@ -100,13 +100,14 @@
   ],
   "volunteer": [
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": []
+      "organization": "Reef Teach",
+      "website": "https://kohalacenter.org/kbec/reefteach",
+      "position": "educator",
+      "startDate": "Aug. 2008",
+      "endDate": "May 2009",
+      "summary": "Help educate tourists and beach goers about how reefs work, why they are valuable, and how to protect them before going into the water",
+      "highlights": ["Talking to random people and giving them necessary information",
+                    "Understanding the reef, how it works, how it useful, why we need to protect it and how we can protect it"]
     }
   ],
   "awards": [
