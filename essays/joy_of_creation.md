@@ -8,6 +8,7 @@ labels:
   - JavaScript
 ---
 
+<img class="ui tiny right spaced image" src="../images/painting.jpg">
 There is something wholly rewarding about the act of creation.  There is a sense of pride and accomplishment that comes with completing any
 creative project.  For me, I have always enjoyed creation, it served as an outlet and a mode of self expression that still affect me and 
 even some others, to this day. To me, software engineering seems like the natural progression for my creative interests.  It is an 
