@@ -5,7 +5,9 @@ title: Asking How to Ask
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-12
 labels:
-  - JavaScript
+  - Smart Questions
+  - Software Engineering
+  - Reflection
 ---
 
 <img class="ui tiny right spaced image" src="../images/question.jpg">*“There is no such thing as a bad question”* 
