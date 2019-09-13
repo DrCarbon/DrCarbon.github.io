@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: First Steps
+title: Asking How to Ask
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-06
+date: 2019-09-12
 labels:
   - JavaScript
 ---
