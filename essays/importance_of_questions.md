@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Asking How to Ask
+title: The Importance of Questions
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-12
 labels:
