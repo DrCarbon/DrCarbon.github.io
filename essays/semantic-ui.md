@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Semantic UI
+title: An Exploration of Semantic UI
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-10
 labels:
