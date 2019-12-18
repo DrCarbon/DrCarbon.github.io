@@ -1,16 +1,16 @@
 ---
 layout: essay
 type: essay
-title: An Exploration of Semantic UI
+title: Curtain Call
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-10
 labels:
-  - Semantic UI
+  - Software Engineering
   - Reflection
 ---
 <img class="ui center spaced image" src="../images/recreation.png">
 
-Over the past week I have been using and familiarizing myself with Semantic UI to build simple homepages for websites.  Semantic UI is a stylistic and simple UI that can improve the look and feel of a website while attempting to be easy to use and understand.  So far I have been quite impressed with what I have been able to achieve with Semantic UI, giving me the ability to greatly improve the aesthetic of the web pages I have been creating.  It has been very easy to pick up with it’s tools being intuitive and easy to use; though I can’t say this UI didn’t have any hiccups along the way.
+Another semester draws to a close, and with it ends this small, yet significant journey. I have gained a multitude of skills and experiences, all of which I have found infinitely interesting and intriguing, yet at the same time I am unsure as to how I will use them.  It is impossible to say how what I have learned in this class will effect me in the future, however, I can say with certainty, that this course has changed my perspective on code, and has made the field all the more exciting.   
 
 As far as UI’s go, this Semantic is not terribly complex and is fairly easy to learn, plus the results from the time put into learning this UI leads to ever more professional and appealing website designs. With enough experience, you can certainly produce something that looks on the same level as many company and business websites.  On top of this, the way this UI is crafted makes it incredibly user friendly, as the words and the grammatical structure used for classes are what you would expect from regular english sentences.  On top of this ease of learning, I found that the creation of custom classes was very simple and came with few headaches on my part; all one has to do is insert a word into a predefined class, then in the style sheet that word could be called and used to edit all items in that class.  A great contribution to the ease of use is probably the online resources available for this UI; If there was an icon or function I was searching for I could easily look it up online and find what I needed. 
 
