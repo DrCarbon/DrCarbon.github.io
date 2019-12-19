@@ -59,7 +59,9 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "CSS",
+        "HTML"
       ]
     },
     {
@@ -68,7 +70,9 @@
       "keywords": [
         "Windows 7,8,& 10",
         "MacOS",
-        "Eclipse"
+        "Eclipse",
+        "IntelliJ",
+        "Semantic-UI React"
       ]
     }
   ],
