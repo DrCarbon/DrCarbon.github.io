@@ -21,6 +21,6 @@ My role in this project was to mainly work on the backend side of the website: I
 
 Our Project is far from perfect, but it is my first step into this kind of coding, and it was a great way to expose myself to the complexity to creating a website, even one as seemingly simple as this. I have been left with an interest to continue exploring react and webdesign in general.  I hope to improve and increase my skill in this aspects, hopefully trying harder and harder projects, and pushing myself as I do so
 
-The Manoa Fixed website
+[The Manoa Fixed website](http://manoafixed.meteorapp.com/)
 
-The Manoa Fixed git.io
+[The Manoa Fixed git.io](https://manoa-fixed.github.io/)
