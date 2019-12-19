@@ -9,7 +9,7 @@ labels:
   - Reflection
   - Final Thoughts
 ---
-<img class="ui center spaced image" src="../images/recreation.png">
+<img class="ui center spaced image" src="../images/software-engineering.png">
 
 # Retrospective
 Another semester draws to a close, and with it ends this short, yet significant, journey. I have gained a multitude of skills and experiences, all of which, I have found infinitely interesting and intriguing, yet at the same time I am unsure as to how I will use them.  It is impossible to say how what I have learned in this course will affect me in the future, however, I can say with certainty, that this course has changed my perspective on coding, and has made the field all the more exciting.     
