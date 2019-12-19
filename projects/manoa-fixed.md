@@ -23,4 +23,4 @@ Our Project is far from perfect, but it is my first step into this kind of codin
 
 [The Manoa Fixed website](http://manoafixed.meteorapp.com/)
 
-[The Manoa Fixed git.io](https://manoa-fixed.github.io/)
+[The Manoa Fixed github.io](https://manoa-fixed.github.io/)
