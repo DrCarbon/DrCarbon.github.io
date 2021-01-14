@@ -79,9 +79,7 @@
         "Semantic-UI React",
         "Visual Studios",
         "Pascal",
-        "SWI-Prolog"
-        ],
-      [
+        "SWI-Prolog",
         "Juptyer Notebook",
         "Allegro",
         "Ubuntu"
@@ -103,8 +101,8 @@
       "institution": "Hawaii Community College Palamanui, Kailua-Kona, HI",
       "area": "Associates of Arts",
       "studyType": "A.A.",
-      "startDate": "2018-05-20",
-      "endDate": "2016-8-20",
+      "startDate": "2016-08-20",
+      "endDate": "2018-05-20",
       "gpa": "3.65",
       "courses": [
       ]
@@ -115,12 +113,12 @@
       "company": "University of Manoa",
       "position": "Learning Assistant",
       "website": "https://www.learningassistantalliance.org/",
-      "startDate": "2021-01-08",
+      "startDate": "2021-01-14",
       "endDate": "Present",
-      "summary": "Assist customers and handel baggage",
+      "summary": "Assist students in learning the material of the course",
       "highlights": [
-        "Manage, assist, and book customers while ensuring their luggage remains safe",
-        "Handle closing tasks, coordinate with dispatch, and ensure the lounge stays as welcoming as possible"
+        "Join and manage online labs where students can ask questions about the course and material for the class",
+        "Manage an online learning emporium for the students of the class I am assisting and others"
       ]
     },
     {
@@ -132,7 +130,8 @@
       "summary": "Assist customers and handel baggage",
       "highlights": [
         "Manage, assist, and book customers while ensuring their luggage remains safe",
-        "Handle closing tasks, coordinate with dispatch, and ensure the lounge stays as welcoming as possible"
+        "Handle closing tasks, coordinate with dispatch, and ensure the lounge stays as welcoming as possible",
+        "Create reservations for customers inside the Robert's Hawaii system.
       ]
     },
     {
@@ -143,8 +142,8 @@
       "endDate": "2017-07",
       "summary": "Make Sandwiches for customers and perform duties to maintain store",
       "highlights": [
-        "Manage, assist, and book customers while ensuring their luggage remains safe",
-        "Handle closing tasks, coordinate with dispatch, and ensure the lounge stays as welcoming as possible"
+        "Crafting sandwiches that please the customers in a timely fashion",
+        "Prepare the store for closing at night and the next shift in the morning"
       ]
     }
   ],
@@ -160,7 +159,7 @@
       ]
     },
     {
-      "organization": "Reef Teach",
+      "organization":"Reef Teach",
       "website": "https://kohalacenter.org/kbec/reefteach",
       "position": "",
       "startDate": "2008-08-20",
