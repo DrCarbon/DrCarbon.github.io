@@ -36,8 +36,6 @@
     {
       "name": "Game Design",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -46,7 +44,7 @@
       ]
     },
     {
-      "name": "Simulation",
+      "name": "Software Engineering",
       "keywords": [
       ]
     }
@@ -58,10 +56,16 @@
       "keywords": [
         "C",
         "C++",
+        "C#",
         "Java",
         "Javascript",
         "CSS",
-        "HTML"
+        "HTML",
+        "Prolog",
+        "PERL",
+        "LISP",
+        "UNIX",
+        "Python"
       ]
     },
     {
@@ -72,7 +76,13 @@
         "MacOS",
         "Eclipse",
         "IntelliJ",
-        "Semantic-UI React"
+        "Semantic-UI React",
+        "Visual Studios",
+        "Pascal",
+        "SWI-Prolog",
+        "Juptyer Notebook",
+        "Allegro",
+        "Ubuntu"
       ]
     }
   ],
@@ -90,12 +100,36 @@
   ],
   "work": [
     {
+      "company": "University of Manoa",
+      "position": "Learning Assistant",
+      "website": "https://www.learningassistantalliance.org/",
+      "startDate": "2021-01-08",
+      "endDate": "present",
+      "summary": "Assist customers and handel baggage",
+      "highlights": [
+        "Manage, assist, and book customers while ensuring their luggage remains safe",
+        "Handle closing tasks, coordinate with dispatch, and ensure the lounge stays as welcoming as possible"
+      ]
+    }
+    {
       "company": "Roberts Hawaii",
-      "position": "concierge",
+      "position": "Concierge",
       "website": "https://www.robertshawaii.com/",
       "startDate": "2019-06-13",
-      "endDate": "Present",
+      "endDate": "2020-03",
       "summary": "Assist customers and handel baggage",
+      "highlights": [
+        "Manage, assist, and book customers while ensuring their luggage remains safe",
+        "Handle closing tasks, coordinate with dispatch, and ensure the lounge stays as welcoming as possible"
+      ]
+    }
+    {
+      "company": "Subway",
+      "position": "Sandwich Artist",
+      "website": "https://www.subway.com/en-us",
+      "startDate": "2016-07",
+      "endDate": "2017-07",
+      "summary": "Make Sandwiches for customers and perform duties to maintain store",
       "highlights": [
         "Manage, assist, and book customers while ensuring their luggage remains safe",
         "Handle closing tasks, coordinate with dispatch, and ensure the lounge stays as welcoming as possible"
