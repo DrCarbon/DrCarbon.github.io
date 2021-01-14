@@ -79,7 +79,9 @@
         "Semantic-UI React",
         "Visual Studios",
         "Pascal",
-        "SWI-Prolog",
+        "SWI-Prolog"
+        ],
+      [
         "Juptyer Notebook",
         "Allegro",
         "Ubuntu"
@@ -96,6 +98,16 @@
       "gpa": "",
       "courses": [
       ]
+    },
+        {
+      "institution": "Hawaii Community College Palamanui, Kailua-Kona, HI",
+      "area": "Associates of Arts",
+      "studyType": "A.A.",
+      "startDate": "2018-05-20",
+      "endDate": "2016-8-20",
+      "gpa": "3.65",
+      "courses": [
+      ]
     }
   ],
   "work": [
@@ -104,7 +116,7 @@
       "position": "Learning Assistant",
       "website": "https://www.learningassistantalliance.org/",
       "startDate": "2021-01-08",
-      "endDate": "present",
+      "endDate": "Present",
       "summary": "Assist customers and handel baggage",
       "highlights": [
         "Manage, assist, and book customers while ensuring their luggage remains safe",
