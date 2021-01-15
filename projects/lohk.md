@@ -11,7 +11,7 @@ labels:
 summary: A website that is built to be a secure place for users to store their sensitive information
 ---
 
-<img class="ui huge right floated rounded image" src="../images/lohk.png">
+<img class="ui medium right floated rounded image" src="../images/lohk.png">
 
 For the LOHK website, myself in a group of three other classmates, in our Software Quality Assurance course were tasked to create a secure website that could store an individual's sensitive information.  We went about this by being concious of what functions we were adding to the code, the vulnerabilities that may be present within, along with implementing provenly strong yet unobtrusive security measures, like a password or pin number.
 
