@@ -11,7 +11,7 @@ labels:
 summary: A simple game where a player controls a cude and has to dodge obstacles to score points.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/simple-game.png">
+<img class="ui huge right floated rounded image" src="../images/simple-game.png">
 
 For this project I wanted to get more familiar with the Unity game engine as well as practice scripting with C#.  I used online resources to help me develop this project and help me understand how to create objects, apply physics, scripts, and much more to said objects and much more.  The goal was to create a simple game, it is comprised soley of a red cube which the player control, a large white floor, and the grey rectangles that act as obstacles for the player, with the ultimate goal of gaining the highest score in the course by going the farthest.
 
