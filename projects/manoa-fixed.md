@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-title: Manoa Fixed
 image: images/manoa-fixed.png
+title: Manoa Fixed
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-18
 labels:
