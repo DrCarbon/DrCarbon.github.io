@@ -12,7 +12,7 @@ labels:
 summary: A website created to allow people around UH Manoa to submit reports damages around campus
 ---
 
-<img class="ui large center floated rounded image" src="../images/manoa-fixed.png">
+<img class="ui huge right floated rounded image" src="../images/manoa-fixed.png">
 
 For this project I teamed up with two other members of my software engineering class to create a website as our final project for the course.  Our team leader came up with the idea to make our final project a website that people could use around campus to report damages they see around campus, such a fire damage, electronics not working as they should, or even lost items.  All the user would have to do is take a picture of the object or piece of architecture they wish to report, they add a title, state it's location, tag it, and give a brief description.  They can then post their report, after which, it will be immedeatly added to an online database and shown along a series of similar reports that users can scroll through to check if they wish.
 
