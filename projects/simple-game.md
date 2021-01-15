@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-title: Cube Run
 image: images/simple-game.png
+title: Cube Run
 date: 2020-08-20
 labels:
   - Video Game
