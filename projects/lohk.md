@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-title: Manoa Fixed
+image: images/lohk.png
+title: LOHK
 date: 2020-06-04
 labels:
   - Website
