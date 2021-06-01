@@ -3,7 +3,7 @@
     "name": "Corben Broennimann",
     "label": "Student",
     "picture": "https://corbenbroennimann.github.io/images/corbenheadshot.jpg",
-    "email": "corben@hawaii.edu",
+    "email": "cbreonnimann@hawaii.edu",
     "phone": "808-936-4637",
     "website": "https://corbenbroennimann.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2021.",
@@ -89,11 +89,11 @@
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2021)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2018-08-20",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2021-05-14",
+      "gpa": "3.5",
       "courses": [
       ]
     },
@@ -109,12 +109,24 @@
     }
   ],
   "work": [
+   {
+      "company": "Innovations Public Charter School",
+      "position": "After-School Drone Teacher",
+      "website": "https://www.ipcs.info/",
+      "startDate": "2021-03-22",
+      "endDate": "2021-05-23",
+      "summary": "Monitor and teach a group of students afer school, how to fly and operate drones",
+      "highlights": [
+        "Join and manage online labs where students can ask questions about the course and material for the class",
+        "Manage an online learning emporium for the students of the class I am assisting and others"
+      ]
+    },
     {
       "company": "University of Manoa",
       "position": "Learning Assistant",
       "website": "https://www.learningassistantalliance.org/",
       "startDate": "2021-01-14",
-      "endDate": "Present",
+      "endDate": "2021-05-14",
       "summary": "Assist students in learning the material of the course",
       "highlights": [
         "Join and manage online labs where students can ask questions about the course and material for the class",
@@ -149,14 +161,14 @@
   ],
   "volunteer": [
     {
-      "organization": "",
-      "website": "",
+      "organization": "Kailua-Kona Public Library",
+      "website": "https://www.librarieshawaii.org/",
       "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-      ]
+      "startDate": "2014-10-15",
+      "endDate": "2016-05-05",
+      "summary": "Help the local library set up their book sales to get rid of their excess books",
+      "highlights": ["Cart out boxes of books out to sales area", "Set up the books so customers can clearly see and access all of the books", 
+                     "At the end of the day move the boxes with remaining books back into storage"]
     },
     {
       "organization":"Reef Teach",
