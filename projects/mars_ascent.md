@@ -8,7 +8,7 @@ labels:
   - Video Game
   - School Project
   - Unity
-summary: A puzzle platformer where the player has to climb a space elevator using magnetism and skill.
+summary: A puzzle platformer where the player has to climb a space elevator by manipulating the elevator's magnetism and environment.
 ---
 
 <img class="ui huge right floated rounded image" src="../images/simple-game.png">
