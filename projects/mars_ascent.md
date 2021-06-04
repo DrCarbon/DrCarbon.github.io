@@ -26,3 +26,5 @@ The game idea we landed upon was a puzzle platformer where a Martian astronaut, 
 <img class="ui small right floated rounded image" src="../images/marsScreenShot.png">
 
 While working on this game I took on mutliple tasks, though I mostly focused on level and puzzle design. The other tasks I worked on were the enemy AI, button and platform scripting, the magnetism mechanic, some animations, and creating the menues. I was heavily passionate about this project, and wanted us to accomplish everything we set out to do with this game. In the end, while our game is far from perfect, specifically with camera movement, I am proud of what we achieved and what I learned. 
+
+<img class="ui small right floated rounded image" src="../images/marsScreenShot2.png">
