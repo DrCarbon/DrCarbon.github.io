@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Corben Broennimann",
-    "label": "Student",
+    "label": "Android Developer",
     "picture": "https://corbenbroennimann.github.io/images/corbenheadshot.jpg",
-    "email": "cbreonnimann@hawaii.edu",
+    "email": "corben.broennimann@gmail.com",
     "phone": "808-936-4637",
     "website": "https://corbenbroennimann.github.io",
     "summary": "I am a B.S. Computer Science graduate from the Department of Information and Computer Sciences at the University of Hawaii at Manoa. Seeking to enrich others through programs and games.",
     "location": {
-      "address": "1825 East-West Rd.",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "110 Calibre Chase Dr. Apt 108",
+      "postalCode": "27609",
+      "city": "Raleigh",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "North Carolina"
     },
     "profiles": [
       {
@@ -54,6 +54,7 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "Kotlin",
         "C",
         "C++",
         "C#",
@@ -74,6 +75,11 @@
       "keywords": [
         "Windows 7,8,& 10",
         "MacOS",
+        "Android Studio",
+        "Unity",
+        "Unreal Engine 4",
+        "Mimic",
+        "Jenkins",
         "Eclipse",
         "IntelliJ",
         "Semantic-UI React",
@@ -109,6 +115,21 @@
     }
   ],
   "work": [
+    {
+      "company": "Quintrix Solutions",
+      "position": "Android Developer",
+      "website": "https://www.quintrixsolutions.com/",
+      "startDate": "2022-05-22",
+      "endDate": "2023-01-31",
+      "summary": "Android Developer contracted to work at Capital One with a team developing a feature for the Capital One mobile app, and its thousands of users",
+      "highlights": [
+        "Learned in house features and libraries through documentation, working with the code, and referring to my team members for assistance",
+        "Review and give comments or approval on pull requests both within my team and from outside teams",
+        "Created UI and JUnit tests, using Mockk and Mimic, to help automate regression testing",
+        "Debugged and refined various aspects of the plugin’s code base",
+        "Developed, in concert with team members and another team, several UI screens to introduce new users to the plugin"
+      ]
+    },
    {
       "company": "Innovations Public Charter School",
       "position": "After-School Drone Teacher",
