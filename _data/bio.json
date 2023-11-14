@@ -3,8 +3,8 @@
     "name": "Corben Broennimann",
     "label": "Android Developer",
     "picture": "https://corbenbroennimann.github.io/images/headshot.jpg",
-    "email": "corben.broennimann@gmail.com",
-    "phone": "808-936-4637",
+    "email": "On Request",
+    "phone": "On Request",
     "website": "https://corbenbroennimann.github.io",
     "summary": "I am Computer Scientist and former Android Developer contractor at Capital One seeking to enrich and innovate the world. I'm hoping to gain more experience working with software and on development teams to challenge myself and grow my skills.",
     "location": {
@@ -60,13 +60,14 @@
         "C#",
         "Java",
         "Javascript",
-        "CSS",
+        "SQL",
         "HTML",
+        "CSS",
+        "Assembly",
         "Prolog",
         "PERL",
         "LISP",
-        "UNIX",
-        "Python"
+        "UNIX"
       ]
     },
     {
@@ -115,6 +116,19 @@
     }
   ],
   "work": [
+{
+      "company": "Go Durham",
+      "position": "Bus Operator",
+      "website": "https://godurhamtransit.org/",
+      "startDate": "2023-05-4",
+      "endDate": "Present",
+      "summary": "Provide safe and reliable bus transportation to the citizens of Durham",
+      "highlights": [
+        "Follow planned bus routes, making scheduled stops to pick up or drop off passengers",
+        "Communicate with the dispatcher via two-way radio during the route; providing updates to the dispatcher and reports emergencies, traffic patterns, or accidents",
+        "Handle customer interactions with professionalism offering assistance where necessary, especially for disabled passengers"
+      ]
+    },
     {
       "company": "Quintrix Solutions",
       "position": "Android Developer",
@@ -123,11 +137,12 @@
       "endDate": "2023-01-31",
       "summary": "Android Developer contracted to work at Capital One with a team developing a feature for the Capital One mobile app, and its thousands of users",
       "highlights": [
-        "Learned in house features and libraries through documentation, working with the code, and referring to my team members for assistance",
-        "Review and give comments or approval on pull requests both within my team and from outside teams",
-        "Created UI and JUnit tests, using Mockk and Mimic, to help automate regression testing",
-        "Debugged and refined various aspects of the plugin’s code base",
-        "Developed, in concert with team members and another team, several UI screens to introduce new users to the plugin"
+        "Worked as a contractor with Capital One, to assist in the development and management of the address book feature, in their multi-million user mobile banking app",
+        "Implemented several first time user UI screens, following given specifications",
+        "Rapidly learned the code and in-house libraries used by Capital One for its banking app",
+        "Developed JUnit and UI tests to automate regression testing, utilizing the Mockk library and Mimic tools",
+        "Utilized GitHub to submit code, review team members’ submissions, and keep a thorough versioning history of my assignments and the application",
+        "Debugged and refined various tests, functions, features and calls to the API to ensure more optimal performance of the application"
       ]
     },
    {
@@ -138,9 +153,9 @@
       "endDate": "2021-05-23",
       "summary": "Monitor and teach a group of students afer school, how to fly and operate drones",
       "highlights": [
-        "Taught children in from ages 10 to 13, how to fly and operate simple drones and larger camera operated drones",
-        "Performed various activities and fun exercises involving the drones to help them get comfortable with flying",
-        "Had to supervise and manage a class of 5 to 7 children, while keeping them entertained and under control"
+        "Instructed classes of 3 to 8, elementary to middle school students, on how to fly and safely operate a drone",
+        "Created multiple activities to challenge and engage the students with piloting a drone",
+        "Taught students a range of skills from how to safely land, do tricks, and operate a drone mounted camera"
       ]
     },
     {
@@ -151,8 +166,9 @@
       "endDate": "2021-05-14",
       "summary": "Assist students in learning the material of the course",
       "highlights": [
-        "Join and manage online labs where students can ask questions about the course and material for the class",
-        "Manage an online learning emporium for the students of the class I am assisting and others"
+        "Assisted students with questions in regards to the concepts and homework from an intermediate level computer science course",
+        "Debugged students’ code, walking them through the process slowly to help them arrive at the solution on their own",
+        "Guided students to solutions rather than giving them the answers"
       ]
     },
     {
@@ -163,21 +179,23 @@
       "endDate": "2020-03",
       "summary": "Assist customers and handel baggage",
       "highlights": [
-        "Manage, assist, and book customers while ensuring their luggage remains safe",
-        "Handle closing tasks, coordinate with dispatch, and ensure the lounge stays as welcoming as possible",
-        "Create reservations for customers inside the Robert's Hawaii system"
+        "Meet and greet guests at the lounge, handling and storing the luggage until they pick it up",
+        "Sell and manage lounge amenities to guests to boost sales and keep quality service",
+        "Arrange bus pickups for guests from the lounge to their hotels"
       ]
     },
     {
-      "company": "Subway",
-      "position": "Sandwich Artist",
-      "website": "https://www.subway.com/en-us",
-      "startDate": "2016-07",
-      "endDate": "2017-07",
-      "summary": "Make Sandwiches for customers and perform duties to maintain store",
+      "company": "Roberts Hawaii",
+      "position": "Office Helper/ Airport Greeter",
+      "website": "https://www.robertshawaii.com/",
+      "startDate": "2019-06",
+      "endDate": "2019-08",
+      "summary": "Fullfill duties around the office, greet guests at the airport, and aid in dispatch",
       "highlights": [
-        "Crafting sandwiches that please the customers in a timely fashion",
-        "Prepare the store for closing at night and the next shift in the morning"
+        "Process and register tour groups in Roberts Hawaii’s scheduling system, fax the information back to the respective tour groups",
+        "Take calls from customers and assist them, coordinating with office staff when needed",
+        "Greet guests arriving at the Airport and show them to their hotel shuttle bus",
+        "Communicate and coordinate with bus drivers over dispatch"
       ]
     }
   ],
